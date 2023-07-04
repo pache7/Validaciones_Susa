@@ -1,12 +1,6 @@
 <template>
   <div class="app">
-    <nav>
-        <v-tabs v-model="tab" color="deep-purple-accent-4" align-tabs="end">
-          <v-tab :value="1"> Validaciones </v-tab>
-          <v-tab :value="2"> Paradas </v-tab>
-          <v-tab :value="3"> Lineas </v-tab>
-        </v-tabs>
-    </nav>
+
     <div class="container">
       <RouterView />
     </div>

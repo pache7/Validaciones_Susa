@@ -1,6 +1,6 @@
 <template>
-      <div class="Home">
-           <h1> Bienvenidos a Home </h1>
+      <div class="text-center">
+           <h1> Bienvenidos a Validaciones </h1>
       </div>
 </template>
 
